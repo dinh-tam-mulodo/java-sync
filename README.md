@@ -11,7 +11,7 @@ This application supports the [Getting Started with Java on Heroku](https://devc
 Make sure you have Java and Maven installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
-$ git clone https://github.com/heroku/java-getting-started.git
+$ git clone https://github.com/dinh-tam-mulodo/java-sync
 $ cd java-getting-started
 $ mvn install
 $ heroku local:start
